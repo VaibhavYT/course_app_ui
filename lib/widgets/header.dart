@@ -31,7 +31,9 @@ class Header extends StatelessWidget {
                           radius: 30,
                           child: Image.asset('assets/images/profile.jpg',
                           fit: BoxFit.contain,
+                          
                           ),
+                          
                         ),
                       ),
                     ],
